@@ -1,0 +1,48 @@
+{
+    "searching_mode": "lab_searching",
+    "searching_opt_all": true,
+    "searching_opt_paper": true,
+    "searching_opt_patent": true,
+    "all": [
+        {
+            "professors": [
+                "prof1",
+                "prof2",
+                "prof3"
+            ],
+            "matching_scores": [
+                80,
+                20,
+                10
+            ]
+        }
+    ],
+    "paper": [
+        {
+            "professors": [
+                "prof1",
+                "prof2",
+                "prof3"
+            ],
+            "matching_scores": [
+                80,
+                20,
+                10
+            ]
+        }
+    ],
+    "patent": [
+        {
+            "professors": [
+                "prof1",
+                "prof2",
+                "prof3"
+            ],
+            "matching_scores": [
+                80,
+                20,
+                10
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "searching_mode": "lab_searching",
+    "searching_opt_num": 3,
+    "searching_opt_all": true,
+    "searching_opt_paper": true,
+    "searching_opt_patent": true,
+    "request": "~~~~~",
+    "keywords": [
+        "keyword1",
+        "keyword2",
+        "keyword3"
+    ]
+}
